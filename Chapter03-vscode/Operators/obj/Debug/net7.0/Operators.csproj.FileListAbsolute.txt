@@ -1,0 +1,15 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/bin/Debug/net7.0/Operators
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/bin/Debug/net7.0/Operators.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/bin/Debug/net7.0/Operators.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/bin/Debug/net7.0/Operators.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/obj/Debug/net7.0/Operators.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/obj/Debug/net7.0/Operators.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/obj/Debug/net7.0/refint/Operators.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/obj/Debug/net7.0/Operators.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Operators/obj/Debug/net7.0/ref/Operators.dll
