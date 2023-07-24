@@ -1,0 +1,15 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/bin/Debug/net7.0/BooleanOperators
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/bin/Debug/net7.0/BooleanOperators.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/bin/Debug/net7.0/BooleanOperators.runtimeconfig.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/bin/Debug/net7.0/BooleanOperators.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/bin/Debug/net7.0/BooleanOperators.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/obj/Debug/net7.0/BooleanOperators.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/obj/Debug/net7.0/BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/obj/Debug/net7.0/BooleanOperators.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/obj/Debug/net7.0/BooleanOperators.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/obj/Debug/net7.0/BooleanOperators.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/obj/Debug/net7.0/BooleanOperators.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/obj/Debug/net7.0/refint/BooleanOperators.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/obj/Debug/net7.0/BooleanOperators.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/obj/Debug/net7.0/BooleanOperators.genruntimeconfig.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BooleanOperators/obj/Debug/net7.0/ref/BooleanOperators.dll

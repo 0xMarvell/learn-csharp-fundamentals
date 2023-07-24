@@ -1,0 +1,15 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/bin/Debug/net7.0/IterationStatements
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/bin/Debug/net7.0/IterationStatements.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/bin/Debug/net7.0/IterationStatements.runtimeconfig.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/bin/Debug/net7.0/IterationStatements.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/bin/Debug/net7.0/IterationStatements.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/obj/Debug/net7.0/IterationStatements.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/obj/Debug/net7.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/obj/Debug/net7.0/IterationStatements.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/obj/Debug/net7.0/IterationStatements.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/obj/Debug/net7.0/IterationStatements.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/obj/Debug/net7.0/IterationStatements.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/obj/Debug/net7.0/refint/IterationStatements.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/obj/Debug/net7.0/IterationStatements.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/obj/Debug/net7.0/IterationStatements.genruntimeconfig.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/IterationStatements/obj/Debug/net7.0/ref/IterationStatements.dll

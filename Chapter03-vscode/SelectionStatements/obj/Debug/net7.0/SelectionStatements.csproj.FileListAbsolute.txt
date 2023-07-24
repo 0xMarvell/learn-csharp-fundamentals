@@ -1,0 +1,15 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/bin/Debug/net7.0/SelectionStatements
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/bin/Debug/net7.0/SelectionStatements.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/bin/Debug/net7.0/SelectionStatements.runtimeconfig.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/bin/Debug/net7.0/SelectionStatements.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/bin/Debug/net7.0/SelectionStatements.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/obj/Debug/net7.0/SelectionStatements.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/obj/Debug/net7.0/SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/obj/Debug/net7.0/SelectionStatements.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/obj/Debug/net7.0/SelectionStatements.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/obj/Debug/net7.0/SelectionStatements.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/obj/Debug/net7.0/SelectionStatements.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/obj/Debug/net7.0/refint/SelectionStatements.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/obj/Debug/net7.0/SelectionStatements.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/obj/Debug/net7.0/SelectionStatements.genruntimeconfig.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/SelectionStatements/obj/Debug/net7.0/ref/SelectionStatements.dll

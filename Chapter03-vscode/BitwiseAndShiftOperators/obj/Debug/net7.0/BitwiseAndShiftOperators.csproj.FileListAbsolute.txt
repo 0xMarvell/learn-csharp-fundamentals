@@ -1,0 +1,15 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/bin/Debug/net7.0/BitwiseAndShiftOperators
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/bin/Debug/net7.0/BitwiseAndShiftOperators.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/bin/Debug/net7.0/BitwiseAndShiftOperators.runtimeconfig.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/bin/Debug/net7.0/BitwiseAndShiftOperators.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/bin/Debug/net7.0/BitwiseAndShiftOperators.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/obj/Debug/net7.0/refint/BitwiseAndShiftOperators.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.genruntimeconfig.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/BitwiseAndShiftOperators/obj/Debug/net7.0/ref/BitwiseAndShiftOperators.dll
