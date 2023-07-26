@@ -1,0 +1,15 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/bin/Debug/net7.0/Arrays
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/bin/Debug/net7.0/Arrays.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/bin/Debug/net7.0/Arrays.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/obj/Debug/net7.0/Arrays.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/obj/Debug/net7.0/Arrays.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Arrays/obj/Debug/net7.0/ref/Arrays.dll

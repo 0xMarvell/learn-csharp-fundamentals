@@ -17,6 +17,24 @@
 		},
 		{
 			"path": "Arrays"
+		},
+		{
+			"path": "CastingConverting"
+		},
+		{
+			"path": "HandlingExceptions"
+		},
+		{
+			"path": "Ch03Ex02LoopsAndOverflow"
+		},
+		{
+			"path": "Ch03Ex03FizzBuzz"
+		},
+		{
+			"path": "Ch03Ex04Exceptions"
+		},
+		{
+			"path": "Ch03Ex05Operators"
 		}
 	]
 }

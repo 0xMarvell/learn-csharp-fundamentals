@@ -1,0 +1,15 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/bin/Debug/net7.0/HandlingExceptions
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/bin/Debug/net7.0/HandlingExceptions.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/bin/Debug/net7.0/HandlingExceptions.runtimeconfig.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/bin/Debug/net7.0/HandlingExceptions.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/bin/Debug/net7.0/HandlingExceptions.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/obj/Debug/net7.0/HandlingExceptions.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/obj/Debug/net7.0/HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/obj/Debug/net7.0/HandlingExceptions.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/obj/Debug/net7.0/HandlingExceptions.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/obj/Debug/net7.0/HandlingExceptions.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/obj/Debug/net7.0/HandlingExceptions.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/obj/Debug/net7.0/refint/HandlingExceptions.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/obj/Debug/net7.0/HandlingExceptions.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/obj/Debug/net7.0/HandlingExceptions.genruntimeconfig.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/HandlingExceptions/obj/Debug/net7.0/ref/HandlingExceptions.dll

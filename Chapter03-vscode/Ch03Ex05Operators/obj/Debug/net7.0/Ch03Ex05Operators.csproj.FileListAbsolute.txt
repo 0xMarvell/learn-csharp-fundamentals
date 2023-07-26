@@ -1,0 +1,15 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/bin/Debug/net7.0/Ch03Ex05Operators
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/bin/Debug/net7.0/Ch03Ex05Operators.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/bin/Debug/net7.0/Ch03Ex05Operators.runtimeconfig.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/bin/Debug/net7.0/Ch03Ex05Operators.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/bin/Debug/net7.0/Ch03Ex05Operators.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/obj/Debug/net7.0/Ch03Ex05Operators.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/obj/Debug/net7.0/Ch03Ex05Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/obj/Debug/net7.0/Ch03Ex05Operators.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/obj/Debug/net7.0/Ch03Ex05Operators.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/obj/Debug/net7.0/Ch03Ex05Operators.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/obj/Debug/net7.0/Ch03Ex05Operators.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/obj/Debug/net7.0/refint/Ch03Ex05Operators.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/obj/Debug/net7.0/Ch03Ex05Operators.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/obj/Debug/net7.0/Ch03Ex05Operators.genruntimeconfig.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex05Operators/obj/Debug/net7.0/ref/Ch03Ex05Operators.dll

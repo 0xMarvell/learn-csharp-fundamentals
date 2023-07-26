@@ -1,0 +1,15 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/bin/Debug/net7.0/Ch03Ex03FizzBuzz
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/bin/Debug/net7.0/Ch03Ex03FizzBuzz.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/bin/Debug/net7.0/Ch03Ex03FizzBuzz.runtimeconfig.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/bin/Debug/net7.0/Ch03Ex03FizzBuzz.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/bin/Debug/net7.0/Ch03Ex03FizzBuzz.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/obj/Debug/net7.0/Ch03Ex03FizzBuzz.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/obj/Debug/net7.0/Ch03Ex03FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/obj/Debug/net7.0/Ch03Ex03FizzBuzz.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/obj/Debug/net7.0/Ch03Ex03FizzBuzz.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/obj/Debug/net7.0/Ch03Ex03FizzBuzz.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/obj/Debug/net7.0/Ch03Ex03FizzBuzz.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/obj/Debug/net7.0/refint/Ch03Ex03FizzBuzz.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/obj/Debug/net7.0/Ch03Ex03FizzBuzz.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/obj/Debug/net7.0/Ch03Ex03FizzBuzz.genruntimeconfig.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/Ch03Ex03FizzBuzz/obj/Debug/net7.0/ref/Ch03Ex03FizzBuzz.dll

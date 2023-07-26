@@ -1,0 +1,15 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/bin/Debug/net7.0/CastingConverting
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/bin/Debug/net7.0/CastingConverting.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/bin/Debug/net7.0/CastingConverting.runtimeconfig.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/bin/Debug/net7.0/CastingConverting.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/bin/Debug/net7.0/CastingConverting.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/obj/Debug/net7.0/CastingConverting.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/obj/Debug/net7.0/CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/obj/Debug/net7.0/CastingConverting.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/obj/Debug/net7.0/CastingConverting.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/obj/Debug/net7.0/CastingConverting.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/obj/Debug/net7.0/CastingConverting.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/obj/Debug/net7.0/refint/CastingConverting.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/obj/Debug/net7.0/CastingConverting.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/obj/Debug/net7.0/CastingConverting.genruntimeconfig.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter03-vscode/CastingConverting/obj/Debug/net7.0/ref/CastingConverting.dll
