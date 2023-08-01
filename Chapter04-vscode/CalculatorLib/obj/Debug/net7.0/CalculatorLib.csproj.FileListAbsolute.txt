@@ -1,0 +1,12 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/CalculatorLib/bin/Debug/net7.0/CalculatorLib.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/CalculatorLib/bin/Debug/net7.0/CalculatorLib.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/CalculatorLib/bin/Debug/net7.0/CalculatorLib.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/refint/CalculatorLib.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/ref/CalculatorLib.dll

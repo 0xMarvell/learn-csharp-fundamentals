@@ -1,0 +1,15 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/bin/Debug/net7.0/WritingFunctions
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/bin/Debug/net7.0/WritingFunctions.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/bin/Debug/net7.0/WritingFunctions.runtimeconfig.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/bin/Debug/net7.0/WritingFunctions.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/bin/Debug/net7.0/WritingFunctions.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/obj/Debug/net7.0/WritingFunctions.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/obj/Debug/net7.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/obj/Debug/net7.0/WritingFunctions.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/obj/Debug/net7.0/WritingFunctions.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/obj/Debug/net7.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/obj/Debug/net7.0/WritingFunctions.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/obj/Debug/net7.0/refint/WritingFunctions.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/obj/Debug/net7.0/WritingFunctions.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/obj/Debug/net7.0/WritingFunctions.genruntimeconfig.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/WritingFunctions/obj/Debug/net7.0/ref/WritingFunctions.dll

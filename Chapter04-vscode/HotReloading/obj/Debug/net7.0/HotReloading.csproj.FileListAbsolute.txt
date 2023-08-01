@@ -1,0 +1,15 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/bin/Debug/net7.0/HotReloading
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/bin/Debug/net7.0/HotReloading.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/bin/Debug/net7.0/HotReloading.runtimeconfig.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/bin/Debug/net7.0/HotReloading.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/bin/Debug/net7.0/HotReloading.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/obj/Debug/net7.0/HotReloading.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/obj/Debug/net7.0/HotReloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/obj/Debug/net7.0/HotReloading.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/obj/Debug/net7.0/HotReloading.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/obj/Debug/net7.0/HotReloading.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/obj/Debug/net7.0/HotReloading.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/obj/Debug/net7.0/refint/HotReloading.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/obj/Debug/net7.0/HotReloading.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/obj/Debug/net7.0/HotReloading.genruntimeconfig.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/HotReloading/obj/Debug/net7.0/ref/HotReloading.dll

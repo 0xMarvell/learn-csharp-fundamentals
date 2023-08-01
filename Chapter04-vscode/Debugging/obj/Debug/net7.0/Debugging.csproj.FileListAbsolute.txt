@@ -1,0 +1,15 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/bin/Debug/net7.0/Debugging
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/bin/Debug/net7.0/Debugging.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/bin/Debug/net7.0/Debugging.runtimeconfig.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/bin/Debug/net7.0/Debugging.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/bin/Debug/net7.0/Debugging.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/obj/Debug/net7.0/Debugging.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/obj/Debug/net7.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/obj/Debug/net7.0/Debugging.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/obj/Debug/net7.0/Debugging.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/obj/Debug/net7.0/Debugging.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/obj/Debug/net7.0/Debugging.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/obj/Debug/net7.0/refint/Debugging.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/obj/Debug/net7.0/Debugging.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/obj/Debug/net7.0/Debugging.genruntimeconfig.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter04-vscode/Debugging/obj/Debug/net7.0/ref/Debugging.dll

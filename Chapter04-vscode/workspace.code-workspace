@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "WritingFunctions"
+		},
+		{
+			"path": "Debugging"
+		},
+		{
+			"path": "HotReloading"
+		},
+		{
+			"path": "Instrumenting"
+		},
+		{
+			"path": "CalculatorLib"
+		},
+		{
+			"path": "CalculatorLibUnitTests"
+		},
+		{
+			"path": "Ch04Ex02PrimeFactorsApp"
+		},
+		{
+			"path": "Ch04Ex02PrimeFactorsLib"
+		},
+		{
+			"path": "Ch04Ex02PrimeFactorsTests"
+		}
+	]
+}
