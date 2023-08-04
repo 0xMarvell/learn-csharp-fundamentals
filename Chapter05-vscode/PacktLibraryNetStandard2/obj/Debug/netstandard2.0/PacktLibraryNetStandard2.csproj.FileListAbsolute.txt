@@ -1,0 +1,10 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PacktLibraryNetStandard2/bin/Debug/netstandard2.0/PacktLibraryNetStandard2.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PacktLibraryNetStandard2/bin/Debug/netstandard2.0/PacktLibraryNetStandard2.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PacktLibraryNetStandard2/bin/Debug/netstandard2.0/PacktLibraryNetStandard2.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.pdb
