@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "PeopleApp"
+		},
+		{
+			"path": "another"
 		}
-	]
+	],
+	"settings": {
+		"dotnet.defaultSolution": "PacktLibraryNetStandard2/PacktLibraryNetStandard2.sln"
+	}
 }

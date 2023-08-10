@@ -65,3 +65,12 @@ WriteLine($"There are {fruitNamed.Number} {fruitNamed.Name}");
 
 var (name, birth, faveWonder) = marv;
 WriteLine($"{name}\n{birth}\n{faveWonder}");
+
+Person sam = new()
+{
+    Name = "Sam",
+    DateOfBirth = new(1969, 6, 25)
+};
+WriteLine(sam.Origin);
+WriteLine(sam.Greeting);
+WriteLine(sam.Age);

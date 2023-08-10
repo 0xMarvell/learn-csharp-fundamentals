@@ -1,6 +1,6 @@
 namespace Packt.Shared;
 
-public class Person : Object
+public partial class Person : Object
 {
     //fields
     public string? Name;
