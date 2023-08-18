@@ -15,4 +15,70 @@ public partial class Person
 
     public string Greeting => $"{Name} says Hello!";
     public int Age => DateTime.Today.Year - DateOfBirth.Year;
+    public string? FavouriteIceCream { get; set; }
+
+    // a private field to store the property value
+    private string? favoritePrimaryColor;
+    // a public property to read and write to the field
+    public string? FavoritePrimaryColor
+    {
+        get
+        {
+            return favoritePrimaryColor;
+        }
+        set
+        {
+            favoritePrimaryColor = (value?.ToLower()) switch
+            {
+                "red" or "green" or "blue" => value,
+                _ => throw new ArgumentException(
+                                    $"{value} is not a primary color. " +
+                                    "Choose from: red, green, blue."),
+            };
+        }
+    }
+
+    //indexers
+    public Person this[int index]
+    {
+        get
+        {
+            return Children[index];
+        }
+        set
+        {
+            Children[index] = value;
+        }
+
+    }
+
+    public Person this[string name]
+    {
+        get
+        {
+            return Children.Find(p => p.Name == name);
+        }
+        set
+        {
+            Person found = Children.Find(p => p.Name == name);
+            if (found is not null) found = value;
+        }
+    }
+
+    // method with a local function
+    public static int Factorial(int number)
+    {
+        if (number < 0)
+        {
+            throw new ArgumentException(
+            $"{nameof(number)} cannot be less than zero.");
+        }
+        return localFactorial(number);
+        
+        int localFactorial(int localNumber) // local function
+        {
+            if (localNumber == 0) return 1;
+            return localNumber * localFactorial(localNumber - 1);
+        }
+    }
 }

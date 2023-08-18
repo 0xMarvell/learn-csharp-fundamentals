@@ -16,3 +16,5 @@
 /home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PeopleApp/obj/Debug/net7.0/PeopleApp.pdb
 /home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PeopleApp/obj/Debug/net7.0/PeopleApp.genruntimeconfig.cache
 /home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PeopleApp/obj/Debug/net7.0/ref/PeopleApp.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PeopleApp/bin/Debug/net7.0/PacktLibraryModern.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter05-vscode/PeopleApp/bin/Debug/net7.0/PacktLibraryModern.pdb
