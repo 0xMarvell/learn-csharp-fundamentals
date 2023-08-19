@@ -1,0 +1,12 @@
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter06-vscode/PacktLibrary/bin/Debug/net7.0/PacktLibrary.deps.json
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter06-vscode/PacktLibrary/bin/Debug/net7.0/PacktLibrary.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter06-vscode/PacktLibrary/bin/Debug/net7.0/PacktLibrary.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter06-vscode/PacktLibrary/obj/Debug/net7.0/PacktLibrary.csproj.AssemblyReference.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter06-vscode/PacktLibrary/obj/Debug/net7.0/PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter06-vscode/PacktLibrary/obj/Debug/net7.0/PacktLibrary.AssemblyInfoInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter06-vscode/PacktLibrary/obj/Debug/net7.0/PacktLibrary.AssemblyInfo.cs
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter06-vscode/PacktLibrary/obj/Debug/net7.0/PacktLibrary.csproj.CoreCompileInputs.cache
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter06-vscode/PacktLibrary/obj/Debug/net7.0/PacktLibrary.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter06-vscode/PacktLibrary/obj/Debug/net7.0/refint/PacktLibrary.dll
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter06-vscode/PacktLibrary/obj/Debug/net7.0/PacktLibrary.pdb
+/home/marvell/Documents/Code/C#/learn-csharp-fundamentals/Chapter06-vscode/PacktLibrary/obj/Debug/net7.0/ref/PacktLibrary.dll
